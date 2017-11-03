@@ -1,0 +1,9 @@
+#
+# MyDriver 
+#
+
+config CHMEMMAP_DRIVER
+	tristate "my character driver for memory map"
+	help
+	  Say yes here to enable the GPIO driver for the DA9052 chip.
+

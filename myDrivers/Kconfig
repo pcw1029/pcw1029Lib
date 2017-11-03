@@ -1,0 +1,13 @@
+#
+# Bus Devices
+#
+
+menu "my drivers"
+source "drivers/myDrivers/chMemMap/Kconfig"
+
+#config ARM_CCI
+#	bool
+#	help
+#	  zynq memory map driver.
+
+endmenu
