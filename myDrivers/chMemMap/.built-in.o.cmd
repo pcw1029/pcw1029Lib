@@ -1,1 +1,0 @@
-cmd_drivers/myDrivers/chMemMap/built-in.o :=  /home/pcw1029/projects/myir_2017.08/output/host/bin/arm-buildroot-linux-gnueabi-ld -EL    -r -o drivers/myDrivers/chMemMap/built-in.o drivers/myDrivers/chMemMap/chMemMap.o 
